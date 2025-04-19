@@ -4,7 +4,7 @@
 ### Base
 Original                                                                                                                
 
-<img src="https://github.com/user-attachments/assets/8be46ac0-2e88-4207-8527-3df01d4cfcca" width=400 height=500><img src="https://github.com/user-attachments/assets/551abdd4-8dfb-407e-bf10-8d272a5b55fb" width=500 height=500>            
+<img src="https://github.com/user-attachments/assets/8be46ac0-2e88-4207-8527-3df01d4cfcca" width=450 height=500><img src="https://github.com/user-attachments/assets/551abdd4-8dfb-407e-bf10-8d272a5b55fb" width=500 height=500>            
 
 
 ### Gripper
