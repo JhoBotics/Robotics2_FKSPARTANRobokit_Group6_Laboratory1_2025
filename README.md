@@ -8,6 +8,6 @@ Original
 
 Altered
 
-<img src="https://github.com/user-attachments/assets/b025f74a-c020-44c8-8f28-ee80d0fe7197" width=500 height=500>
+<img src="https://github.com/user-attachments/assets/551abdd4-8dfb-407e-bf10-8d272a5b55fb" width=500 height=500>
 
 
