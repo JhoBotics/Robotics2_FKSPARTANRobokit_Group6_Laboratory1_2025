@@ -2,3 +2,7 @@
 
 ## Parts
 ### Base
+Original
+<img src="" width=900 height=700>
+Altered
+<img src="" width=900 height=700>
