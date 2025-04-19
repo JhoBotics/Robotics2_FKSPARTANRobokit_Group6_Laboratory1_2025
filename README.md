@@ -1,14 +1,11 @@
-![image](https://github.com/user-attachments/assets/c729412b-c582-46d1-b7cb-d4a7569db187)# Robotics2_FKSPARTANRobokit_Group6_Laboratory1_2025
+# Robotics2_FKSPARTANRobokit_Group6_Laboratory1_2025
 
 ## Parts
 ### Base
 Original                                                                                                                
 
-<img src="https://github.com/user-attachments/assets/f9d540e8-24b1-4d78-85bc-36a846af2adf" width=500 height=500>            
+<img src="https://github.com/user-attachments/assets/f9d540e8-24b1-4d78-85bc-36a846af2adf" width=500 height=500><img src="https://github.com/user-attachments/assets/551abdd4-8dfb-407e-bf10-8d272a5b55fb" width=500 height=500>            
 
-Altered
-
-<img src="https://github.com/user-attachments/assets/551abdd4-8dfb-407e-bf10-8d272a5b55fb" width=500 height=500>
 
 ### Gripper
 Gripper Part 1
@@ -21,6 +18,7 @@ Altered
 
 <img src="https://github.com/user-attachments/assets/176e496d-88b3-455d-8ed9-524c49db7811" width=500 height=500>
 
+Gripper Part 3
 Altered
 
 <img src="https://github.com/user-attachments/assets/35ff6edf-2d74-4dce-a998-aecd2ee9bd3c" width=500 height=500>
