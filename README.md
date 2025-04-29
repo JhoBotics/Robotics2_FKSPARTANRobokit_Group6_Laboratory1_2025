@@ -3,6 +3,7 @@
 ## A. Abstract
 
 ## B. Introduction
+In this Robotics 2 lab project, our team focused on studying and improving the SPARTAN Robokit. We wanted to understand how each part works and find ways to make the overall design better. We looked closely at parts like the base and gripper and made changes to help the robot move more smoothly, stay balanced, and work more efficiently. Using CAD software, we redesigned some of the key parts while keeping things simple, strong, and practical for real-world use.
 
 ## C. Methods Of Redesign
 
@@ -236,3 +237,5 @@
 <img src="https://github.com/user-attachments/assets/36e59983-a465-4415-a002-2b52b5dbede9" width=1000 height=500>
 
 ## Conclusion
+This project provided valuable hands-on experience in robotic design and engineering. By analyzing the original SPARTAN Robokit, we identified specific limitations in stability, component weight, and ease of assembly. Our redesigned parts—such as a taller base for better balance and a simplified gripper for easier control—resulted in a more robust and efficient robot structure. Through this process, we improved not just the physical build, but also our skills in CAD modeling, teamwork, and problem-solving. Overall, this lab helped us understand how thoughtful design decisions can directly impact robotic performance and usability.
+
