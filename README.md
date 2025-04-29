@@ -1,7 +1,7 @@
 # Robotics2_FKSPARTANRobokit_Group6_Laboratory1_2025
 
 ## A. Abstract
-
+The Spartan Robokit is an educational robotic manipulator developed to provide hands-on learning in MEXE 409 – Robotics 2. Initially offered in both 3-DOF and 6-DOF configurations, the original design faced limitations due to its excessive weight and complex assembly process. To resolve these issues and enhance usability, a redesigned version of the Spartan Robokit was developed. Major improvements include significant weight reduction through structural modifications, such as cutouts in cylindrical joints, and the consolidation of multiple connectors into single components. The redesign also features dedicated casings for servo motors, contributing to better organization and protection of key parts. These enhancements improve overall performance, durability, and user-friendliness, making the system more approachable for students and more effective as a teaching tool.
 ## B. Introduction
 In this Robotics 2 lab project, our team focused on studying and improving the SPARTAN Robokit. We wanted to understand how each part works and find ways to make the overall design better. We looked closely at parts like the base and gripper and made changes to help the robot move more smoothly, stay balanced, and work more efficiently. Using CAD software, we redesigned some of the key parts while keeping things simple, strong, and practical for real-world use.
 
