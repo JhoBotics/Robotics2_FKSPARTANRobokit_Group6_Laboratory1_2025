@@ -1,6 +1,11 @@
 # Robotics2_FKSPARTANRobokit_Group6_Laboratory1_2025
 
-## Parts
+## A. Abstract
+
+## B. Introduction
+
+## C. Methods Of Redesign
+
 ### Base
 Original                                                                                                                
 
