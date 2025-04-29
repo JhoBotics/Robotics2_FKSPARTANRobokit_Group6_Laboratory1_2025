@@ -19,7 +19,74 @@
 
 <img src="https://github.com/user-attachments/assets/7c0e07c1-a623-41fa-bedf-897a758e751d" width=1000 height=500>
 
-### Gripper
+### Gripper Part 1
+#### Original Design: 
+
+◉ The gripper was designed with a central diameter for basic functionality.
+
+#### Altered Design:
+
+◉ The central diameter was reduced to minimize weight and compact the design.
+
+◉ Additional teeth were added around the perimeter to enhance grip and mechanical engagement.
+
+### Gripper Part 2
+#### Original Design: 
+
+◉ A basic gripper design with limited angular reach.
+
+#### Altered Design:
+
+◉ Improved functionality for rotational or grabbing tasks, allowing better angular reach and smoother engagement.
+
+◉ Enhanced aesthetics and mechanical efficiency.
+
+### Gripper Part 3
+#### Original Design:
+
+◉ Dual-arm gripper design.
+
+#### Altered Design:
+
+◉ Simplified design with fewer parts for easier assembly.
+
+◉ Transitioned to a single curved component, enabling a wider range of motion and potentially new applications like sweeping or rotating tasks.
+
+### Gripper Part 4
+#### Original Design:
+
+◉ The gripper was composed of multiple arms for gripping functionality.
+
+#### Altered Design:
+
+◉ A handle was added to the design for improved ergonomics.
+
+◉ Text engraving was included for labeling purposes.
+
+◉ Slight shape changes were implemented for a more refined appearance.
+
+### Gripper Part 5
+#### Original Design:
+
+◉  A functional design without any specific ergonomic features.
+
+#### Altered Design:
+
+◉ A rectangular handle was added to improve user interaction.
+
+◉ Engraved text was included for clarity and usability.
+
+◉ Minor refinements were made to enhance the design’s aesthetics and usability.
+
+
+
+
+
+
+
+
+
+
 Gripper Part 1
 Altered
 
