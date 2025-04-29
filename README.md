@@ -7,10 +7,11 @@
 ## C. Methods Of Redesign
 
 ### Base
-Original Design: 
+#### Original Design: 
+
 ◉ The base had a standard height and minimal structural supports.
 
-Altered Design:
+#### Altered Design:
 
 ◉ The height was increased to improve overall stability.
 
