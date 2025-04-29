@@ -16,7 +16,7 @@
 ◉ The height was increased to improve overall stability.
 
 ◉ Additional structural supports were integrated into the baseplate to enhance strength and ensure better load-bearing capacity.                                                                                                                
-
+<p align="center">
 <img src="https://github.com/user-attachments/assets/7c0e07c1-a623-41fa-bedf-897a758e751d" width=1000 height=500>
 
 ### Gripper Part 1
@@ -44,7 +44,10 @@
 
 ◉ Enhanced aesthetics and mechanical efficiency.
 
-### Gripper Part 3
+<p align="center">
+<img src="https://github.com/user-attachments/assets/056d3963-0cab-451c-a6ef-55896c67976a" width=1000 height=500>
+
+### Gripper Right Part 3
 #### Original Design:
 
 ◉ Dual-arm gripper design.
@@ -55,7 +58,10 @@
 
 ◉ Transitioned to a single curved component, enabling a wider range of motion and potentially new applications like sweeping or rotating tasks.
 
-### Gripper Part 4
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0007337b-0e09-4a62-9d24-c051f7416d3e" width=1000 height=500>
+
+### Gripper Left Part 4
 #### Original Design:
 
 ◉ The gripper was composed of multiple arms for gripping functionality.
@@ -67,6 +73,9 @@
 ◉ Text engraving was included for labeling purposes.
 
 ◉ Slight shape changes were implemented for a more refined appearance.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5c4fde88-d27d-4b72-9967-4478b8d8db55" width=1000 height=500>
 
 ### Gripper Part 5
 #### Original Design:
@@ -81,6 +90,9 @@
 
 ◉ Minor refinements were made to enhance the design’s aesthetics and usability.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ef2772cf-049d-4263-9083-9a801ddb29c6" width=1000 height=500>
+  
 ### Sensor Plate
 #### Original Design:
 
