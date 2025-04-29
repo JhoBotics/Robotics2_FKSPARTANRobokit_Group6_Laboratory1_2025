@@ -30,6 +30,9 @@
 
 ◉ Additional teeth were added around the perimeter to enhance grip and mechanical engagement.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/3b3c2a69-8a03-43a3-8103-3ceba178a772" width=400 height=600>
+  
 ### Gripper Part 2
 #### Original Design: 
 
