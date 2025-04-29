@@ -7,7 +7,14 @@
 ## C. Methods Of Redesign
 
 ### Base
-Original                                                                                                                
+Original Design: 
+◉ The base had a standard height and minimal structural supports.
+
+Altered Design:
+
+◉ The height was increased to improve overall stability.
+
+◉ Additional structural supports were integrated into the baseplate to enhance strength and ensure better load-bearing capacity.                                                                                                                
 
 <img src="https://github.com/user-attachments/assets/7c0e07c1-a623-41fa-bedf-897a758e751d" width=1000 height=500>
 
