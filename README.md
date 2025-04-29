@@ -78,13 +78,116 @@
 
 ◉ Minor refinements were made to enhance the design’s aesthetics and usability.
 
+### Sensor Plate
+#### Original Design:
 
+◉ Included basic slots and cutouts.
 
+#### Altered Design:
 
+◉ Slots and cutouts were repositioned and reshaped for better uniformity and ease of manufacturing.
 
+### Lid
+#### Original Design:
 
+◉ A thin section surrounding the screw hole.
 
+#### Altered Design:
 
+◉ Reinforced with increased thickness for greater durability and resistance to stress.
+
+### Connector Part 2
+#### Original Design:
+
+◉ Limited stability with fewer reinforcement holes.
+
+#### Altered Design:
+
+◉ Additional holes were added to improve stability and secure connections during motor operations.
+
+### Connector Part 3
+#### Original Design:
+
+◉ Similar to Connector Part 2, with minimal reinforcement.
+
+#### Altered Design:
+
+◉ Similar improvements were made, with additional holes for enhanced stability and durability.
+
+### Modular
+#### Original Design:
+
+◉ Standard screw holes with minimal reinforcement.
+
+#### Altered Design:
+
+◉ Screw holes were thickened to reinforce the structure and improve durability.
+
+◉ Adjustments were made to prevent breakage during assembly.
+
+### Base Plate
+#### Original Design:
+
+◉ A plain surface with no additional stability features.
+
+#### Altered Design:
+
+◉ A keyhole feature was added to enhance stability and prevent movement during motor operations.
+
+### Joint 2
+#### Original Design:
+
+◉ Basic screw holes with limited support.
+
+#### Altered Design:
+
+◉ Screw holes were thickened and repositioned for better durability and assembly stability.
+
+◉ Additional support was added around the screw holes to prevent breakage.
+
+◉ Deeper holes were implemented to ensure a secure and clean assembly.
+
+### Joint 3
+#### Original Design:
+
+◉ Basic frame and support structure.
+
+#### Altered Design:
+
+◉ Screw holes were thickened for improved durability.
+
+◉ Deeper holes were added to ensure a cleaner fit and prevent screws from sticking out.
+
+### Joint 4
+#### Original Design:
+
+◉ Standard screw hole structure.
+
+#### Altered Design:
+
+◉ Screw holes were thickened to prevent breakage and ensure greater durability.
+
+### Joint 5
+#### Original Design:
+
+◉ Basic screw holes with minimal reinforcement.
+
+#### Altered Design:
+
+◉ The screw holes were thickened for added durability.
+
+◉ Additional support was incorporated around the screw holes to prevent breakage during operation.
+
+### Joint 6
+#### Original Design:
+
+◉ Basic screw hole design with limited stability.
+
+#### Altered Design:
+
+◉ Screw holes were thickened and repositioned for enhanced durability.
+
+◉ Additional support was added to ensure greater stability during motor operations.
 
 
 Gripper Part 1
