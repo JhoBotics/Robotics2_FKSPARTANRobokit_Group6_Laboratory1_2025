@@ -102,6 +102,9 @@
 
 ◉ Slots and cutouts were repositioned and reshaped for better uniformity and ease of manufacturing.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5653f334-3ff8-4baa-b837-3cca7868cafa" width=1000 height=500>
+  
 ### Lid
 #### Original Design:
 
@@ -110,6 +113,9 @@
 #### Altered Design:
 
 ◉ Reinforced with increased thickness for greater durability and resistance to stress.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/acf159c9-de12-4bc3-9362-435451b2e891" width=1000 height=500>
 
 ### Connector Part 2
 #### Original Design:
@@ -120,6 +126,9 @@
 
 ◉ Additional holes were added to improve stability and secure connections during motor operations.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/6302996f-d338-4988-ac3e-81f3e1147f6e" width=1000 height=500>
+
 ### Connector Part 3
 #### Original Design:
 
@@ -129,6 +138,9 @@
 
 ◉ Similar improvements were made, with additional holes for enhanced stability and durability.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/702f9f0f-98a5-4e21-a803-6e450fec3846" width=1000 height=500>
+  
 ### Modular
 #### Original Design:
 
@@ -140,6 +152,9 @@
 
 ◉ Adjustments were made to prevent breakage during assembly.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/dce2d7bc-0c43-4fc2-9a79-dc9bbb829de5" width=1000 height=500>
+
 ### Base Plate
 #### Original Design:
 
@@ -148,6 +163,9 @@
 #### Altered Design:
 
 ◉ A keyhole feature was added to enhance stability and prevent movement during motor operations.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/80484e7b-3f38-4a70-80c1-4693a0401bdb" width=1000 height=500>
 
 ### Joint 2
 #### Original Design:
@@ -162,6 +180,9 @@
 
 ◉ Deeper holes were implemented to ensure a secure and clean assembly.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/6ca94fac-69a1-40f1-a783-344b4da6ef64" width=1000 height=500>
+  
 ### Joint 3
 #### Original Design:
 
@@ -173,6 +194,9 @@
 
 ◉ Deeper holes were added to ensure a cleaner fit and prevent screws from sticking out.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/7741f3c2-691e-49ea-86ca-e317d249da88" width=1000 height=500>
+  
 ### Joint 4
 #### Original Design:
 
@@ -182,6 +206,9 @@
 
 ◉ Screw holes were thickened to prevent breakage and ensure greater durability.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/306f5b34-b364-4de2-812c-e7c93e53836e" width=1000 height=500>
+  
 ### Joint 5
 #### Original Design:
 
@@ -193,6 +220,9 @@
 
 ◉ Additional support was incorporated around the screw holes to prevent breakage during operation.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/36f03e77-bfc8-439f-bca2-71521511e7d3" width=1000 height=500>
+  
 ### Joint 6
 #### Original Design:
 
@@ -204,18 +234,7 @@
 
 ◉ Additional support was added to ensure greater stability during motor operations.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/36e59983-a465-4415-a002-2b52b5dbede9" width=1000 height=500>
 
-Gripper Part 1
-Altered
-
-<img src="https://github.com/user-attachments/assets/aa400eeb-c160-45b2-a0b5-dbd294b3e02e" width=500 height=500>
-
-Gripper Part 2
-Altered
-
-<img src="https://github.com/user-attachments/assets/176e496d-88b3-455d-8ed9-524c49db7811" width=500 height=500>
-
-Gripper Part 3
-Altered
-
-<img src="https://github.com/user-attachments/assets/35ff6edf-2d74-4dce-a998-aecd2ee9bd3c" width=500 height=500>
+## Conclusion
